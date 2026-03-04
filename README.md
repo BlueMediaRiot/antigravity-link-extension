@@ -1,5 +1,3 @@
-NOTE:  Version 1.16.4 or 1.15.8 should work with this most recent version. You can download them here: https://antigravity.google/releases 
-Google keeps on introducing breaking changes that make developing for these recent targets a fool's errand at the moment.
 
 # Antigravity Link (VS Code Extension)
 
